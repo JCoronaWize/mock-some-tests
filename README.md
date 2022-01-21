@@ -1,3 +1,8 @@
+# Create a mock application example.
+
+Lets demonstrate how we can mock API calls in order to create tests in React
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
